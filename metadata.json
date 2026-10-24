@@ -1,0 +1,6 @@
+{
+  "name": "Local YOLO Object Detection Studio",
+  "description": "High-performance real-time YOLO object detection running 100% locally on your computer with WebAssembly and WebGPU acceleration, live webcam, image & video analysis, and annotation export.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
